@@ -1,3 +1,4 @@
+// This import the react modules needed for this file to render to the html and this is also the file where  import the app.js file
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -5,7 +6,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "./App.css";
 
-//The APP and itsstyling is then imported here so it can display on the page
+//The APP and its styling is then imported here so it can display on the page
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
