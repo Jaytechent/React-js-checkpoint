@@ -1,3 +1,5 @@
+
+//I import boostrap modules, react-boostrap and the css file for the navbar here
 import "bootstrap/dist/css/bootstrap.min.css";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
