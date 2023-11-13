@@ -1,0 +1,10 @@
+/*box shadow for the card component*/
+
+.card--div {
+  box-shadow: rgba(207, 124, 124, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+/* background color for the button */
+.btn {
+  background-color: darkslateblue;
+}
