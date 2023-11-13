@@ -1,8 +1,13 @@
+/* This is the styling file for the Main APP.js file that get imported into the index.js file*/
+
+
 * {
   margin: 5px 5px 5px 5px;
   padding: 0;
   box-sizing: border-box;
 }
+
+/* The flex direction for the cards to be side by side*/
 .card--box {
   display: flex;
 
@@ -10,6 +15,7 @@
 
   padding: 50px 50px;
 }
+/* this is to align the heading*/
 h1 {
   text-align: center;
   background-color: transparent;
